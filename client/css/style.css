@@ -1,0 +1,101 @@
+
+#logo {
+    max-width: 90px; max-height: 70px;
+
+}
+
+.nav-bg-perso{
+    background-color: #032539 !important;
+   
+   
+    
+}
+
+#texts{
+
+
+    margin-top: -5px;
+}
+
+.card-body {
+    position: relative;
+}
+
+body{
+
+    background-color: whitesmoke;
+    
+
+}
+
+
+.card-style{
+    margin: 10px;
+    width: 18rem;
+    padding: 10px;
+
+
+
+}
+
+select{
+    border-color: none;
+    margin-top: 10px;
+}
+
+#btn-bande{
+
+    background-color: #1C768F; 
+    
+    max-width: 200px; max-height: 40px;
+
+    margin-top: 10px;
+
+    border-color: black;
+    /* border-radius: 10px; */
+
+
+}
+
+#btn-bande:hover{
+
+    background-color: red;
+    transition: background-color 0.3s ease-in-out;
+}
+
+#btn-panier {
+    height: auto;
+    width: 15%;
+    margin-left: 55%;
+   
+
+}
+
+#btn-panier:hover{
+
+    background-color: blueviolet;
+    transition: background-color 0.3s ease-in-out;
+}
+
+
+
+
+#icon {
+    height: auto;
+    width: 150%;
+    margin-left: -25%;
+}
+
+
+.nav-item
+.nav-link {
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+}
+
+.btn {
+    bottom: 0;
+
+    position: absolute;
+}
